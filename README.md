@@ -14,5 +14,5 @@ mvnw clean install
 mvnw spring-boot:run
 ```
 
-##API documentation
+## API documentation
 http://localhost:8080/swagger-ui.html
